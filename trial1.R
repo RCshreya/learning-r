@@ -1,4 +1,3 @@
-#vector
-X=c(3,5,6)
-Y=c(2,7,8)
-Z=c('e','f','g')
+#matrix
+mat = matrix(c(1,2,3,4))
+mat2 = matrix(c(1,2,3,4) , ncol = 2)
